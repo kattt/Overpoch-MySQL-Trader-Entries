@@ -1,0 +1,16 @@
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_mas",3]', 5000, '[1,"ItemGoldBar10oz",1]', '[7,"ItemGoldBar",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masacog",3]', 5000, '[2,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masaim",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masb",3]', 5000, '[1,"ItemGoldBar10oz",1]', '[7,"ItemGoldBar",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbacog",3]', 5000, '[2,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbaim",3]', 5000, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbeotech",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbsd",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbsdacog",3]', 5000, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbsdaim",3]', 5000, '[5,"ItemGoldBar10oz",1]', '[3,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_masbsdeotech",3]', 5000, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_maseotech",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_massd",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_massdacog",3]', 5000, '[2,"ItemGoldBar10oz",1]', '[1,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_massdaim",3]', 5000, '[4,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["RH_massdeotech",3]', 5000, '[3,"ItemGoldBar10oz",1]', '[2,"ItemGoldBar10oz",1]', 699, 'trade_weapons');

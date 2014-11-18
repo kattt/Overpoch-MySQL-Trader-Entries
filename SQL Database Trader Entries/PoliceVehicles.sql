@@ -1,0 +1,15 @@
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_Patrol",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_Trooper_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_TrooperSL_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_NYPD_Patrol",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_HighwaySL_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_UnmarkedB_Patrol",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_UnmarkedG_Patrol",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_LAPD_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_UnmarkedW_Patrol",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_LAPDSL_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["CVPI_NYPDSL_Patrol",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["policecar",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["Copcar",2]', 5000, '[1,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["Copcarhw",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
+INSERT INTO traders_data (`item`, `qty`, `buy`, `sell`, `tid`, `afile`) VALUES ('["Copcarswat",2]', 5000, '[2,"ItemBriefcase100oz",1]', '[8,"ItemGoldBar10oz",1]', 722, 'trade_any_vehicle');
